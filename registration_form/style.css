@@ -1,0 +1,89 @@
+
+*{padding: 0px;margin: 0px;}
+body{font-family: 'Bree Serif', serif;
+
+}
+.clear{clear:both;}
+.container {
+	width: 1250px;
+	margin: 0px auto;
+	}
+.center{
+    width: 700px;
+    margin: 0px auto;
+}
+.information {
+    border: 1px solid cadetblue;
+    width: 300px;
+    float: left;
+	background: cadetblue;
+}
+.information h1{
+    margin-top: 45px;
+    padding: 10px;
+    font-weight: lighter;
+    color: #fff;
+}
+.information p {
+    padding: 10px;
+    color: #fff;
+    font-size: 13px;
+    text-align: justify;
+}
+.have_account{
+    padding: 10px;
+    border-radius: 9px;
+    margin-left: 27%;
+    margin-bottom: 22px;
+    margin-top: 11px;
+    border: none;
+    box-shadow: 0px 3px 5px grey;
+    background: #fff;
+    color: #000;
+    font-weight: bold;
+	cursor:pointer;
+}
+.registration {
+    border: 1px solid cadetblue;
+    float: right;
+    width: 396px;
+}
+.registration h1{
+    color: cadetblue;
+    font-weight: lighter;
+    margin-top: 44px;
+    padding: 10px;
+}
+.box {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+input{
+	margin-left:13px;
+}
+label{
+	text-align:right;
+}
+.check_box{
+	width:9px;
+	height:9px;
+	margin-top:22px;
+	float:left;
+}
+.box p{
+    margin-top: 16px;
+    float: right;
+    margin-right: 140px;
+}
+.register{
+    padding: 10px;
+    width: 104px;
+    margin-top: 19px;
+    margin-left: 34%;
+    border-radius: 5px;
+    border: none;
+    background: cadetblue;
+    box-shadow: 0px 2px 2px grey;
+    margin-bottom: 20px;
+	cursor: pointer;
+}
